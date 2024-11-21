@@ -1,3 +1,7 @@
+### Step0 Use case
+
+umi is a basic function when we use metaplex
+
 ### Step1 create a umi
 
 use createUmi from @metaplex-foundation/umi-bundle-defaults
